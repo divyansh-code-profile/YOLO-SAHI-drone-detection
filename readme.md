@@ -26,9 +26,9 @@ This repository is based on [YOLOv7](https://github.com/WongKinYiu/yolov7) and [
 2.   https://universe.roboflow.com/object-detection/ det1-cvt2f
 ```
 
+
+
 #Getting Started
-
-
 ```
 1. Train the YOLOv7 Model. (You can follow the video - https://www.youtube.com/watch?v=5nsmXLyDaU4 for easier understanding).
 2. Perform the inference with SAHI. (The code is in yolov7_SAHI).
